@@ -1,0 +1,8 @@
+line_length:
+- 200 # warning
+- 300 # error
+
+function_body_length:
+- 92 # warning
+- 110 # error
+
