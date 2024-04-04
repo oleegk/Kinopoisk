@@ -1,4 +1,4 @@
-# Kinopoisk from Skillbox
+# Kinopoisk
 
 Educational project for searching films and viewing detailed information about them.
 The application uses the Kinopoisk API
